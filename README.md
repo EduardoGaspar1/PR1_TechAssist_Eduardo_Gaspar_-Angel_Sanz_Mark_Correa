@@ -1,4 +1,9 @@
-Practica 1
+**Practica 1**
 Edaurdo Rohden Gaspar da Silva
 Angel Sanz Barragan
 Mark Ruiz Correa
+
+- Objetivo del diseño.
+
+- Archivos
+  
