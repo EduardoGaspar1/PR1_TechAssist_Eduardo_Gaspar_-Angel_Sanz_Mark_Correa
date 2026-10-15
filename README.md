@@ -1,4 +1,4 @@
-**Practica 1**
+**TechAssist**
 Eduardo Rohden Gaspar da Silva
 Angel Sanz Barragan
 Mark Ruiz Correa
