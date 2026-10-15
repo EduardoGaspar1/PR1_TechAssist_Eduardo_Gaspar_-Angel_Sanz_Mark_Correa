@@ -11,5 +11,6 @@ Una empresa de servicios técnicos necesita gestionar de forma centralizada a su
 
 - Archivos
 DiagramaPractica1.png - Primero diagrama (parte 1)
+DiagramaPractica1 Final.png - Diagrama (parte 6)
 Practica 1.odt - Archivo de respuestas para las preguntas
 README.md - Archivo de descripcion
