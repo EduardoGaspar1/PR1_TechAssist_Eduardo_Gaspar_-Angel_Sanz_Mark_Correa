@@ -18,4 +18,4 @@ Una empresa de servicios técnicos necesita gestionar de forma centralizada a su
 *   **'DiagramaPractica1Final.png'**: Diagrama Entidad-Relación definitivo (incorporando las modificaciones exigidas en la Sexta fase).
 *   **'PR1_Documentacion.pdf'**: Documento principal con las respuestas razonadas a todas las fases del proyecto, justificación de decisiones y explicación detallada del modelo.
 *   **'README.md'**: Este archivo, con la descripción general y estructura del proyecto.
-*   **Tablas.pdf**: Modelo de base de datos
+*   **'Tablas.pdf'**: Modelo de base de datos
